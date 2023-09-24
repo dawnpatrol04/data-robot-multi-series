@@ -1,0 +1,10 @@
+
+datarobot
+pandas
+requests
+
+-e .
+
+
+# Optional
+matplotlib
